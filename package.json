@@ -1,0 +1,10 @@
+{
+  "name": "ckeditor5-global-font",
+  "version": "0.1.1",
+  "description": "Plugin to change font properties of whole content",
+  "main": "src/global-font.js",
+  "repository": "git@github.com:clickideia/ckeditor5-global-font.git",
+  "author": "Clickideia (http://clickideia.com.br)",
+  "license": "MIT",
+  "private": false
+}
